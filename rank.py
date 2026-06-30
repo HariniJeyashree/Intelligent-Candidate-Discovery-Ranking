@@ -161,13 +161,14 @@ def rank_candidates():
         
     df = pd.DataFrame(final_rows)
     df.to_csv("submission.csv", index=False)
+    df.to_excel("submission.xlsx", index=False)
     
     elapsed = time.time() - start_time
     # Simple memory estimate since we are constrained to 16GB. 
     # For a real env, psutil can be used, but since we are just reporting we can print the sizes.
     import sys
     print(f"Ranking step completed in {elapsed:.2f} seconds.")
-    print("Output saved to submission.csv.")
+    print("Output saved to submission.csv and submission.xlsx.")
 
 if __name__ == "__main__":
     rank_candidates()
