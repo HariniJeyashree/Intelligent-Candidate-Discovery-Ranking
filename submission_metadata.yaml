@@ -1,0 +1,9 @@
+team_name: "Antigravity Engineers"
+submission_date: "2026-06-29"
+compute_specs:
+  cpu: "Local CPU"
+  memory_gb: 16
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+reproduce_command: "python rank.py"
+ai_usage_summary: "Used Gemini 3.1 Pro (Low) for architecture discussion, code generation, and setup. No LLM calls are made during the ranking step."

@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0068932,1,0.7573,Ranked #1 with JD embedding similarity 0.53. Has 5.2 YOE as ML Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 82.0%.
+CAND_0011687,2,0.7335,Ranked #2 with JD embedding similarity 0.54. Has 7.8 YOE as Senior NLP Engineer. Location is outside preferred zones. Notice period: 15 days. Recruiter response rate: 89.0%.
+CAND_0055905,3,0.7274,Ranked #3 with JD embedding similarity 0.54. Has 8.1 YOE as Senior Machine Learning Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 87.0%.
+CAND_0060054,4,0.7226,Ranked #4 with JD embedding similarity 0.54. Has 6.4 YOE as AI Engineer. Location is outside preferred zones. Notice period: 15 days. Recruiter response rate: 86.0%.
+CAND_0037160,5,0.7146,Ranked #5 with JD embedding similarity 0.53. Has 6.0 YOE as Data Scientist. Location is in welcome zones. Notice period: 30 days. Recruiter response rate: 74.0%.
+CAND_0001206,6,0.7142,Ranked #6 with JD embedding similarity 0.53. Has 8.8 YOE as Civil Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 68.0%.
+CAND_0043860,7,0.7111,Ranked #7 with JD embedding similarity 0.55. Has 6.1 YOE as Junior ML Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 81.0%.
+CAND_0002025,8,0.709,Ranked #8 with JD embedding similarity 0.55. Has 5.9 YOE as Senior AI Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 80.0%.
+CAND_0062247,9,0.7023,Ranked #9 with JD embedding similarity 0.55. Has 7.3 YOE as AI Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 78.0%.
+CAND_0046064,10,0.702,Ranked #10 with JD embedding similarity 0.55. Has 8.9 YOE as Senior NLP Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 78.0%.
+CAND_0050454,11,0.7001,Ranked #11 with JD embedding similarity 0.55. Has 6.8 YOE as AI Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 77.0%.
+CAND_0018499,12,0.696,Ranked #12 with JD embedding similarity 0.53. Has 7.2 YOE as Senior Machine Learning Engineer. Location is a primary preference. Notice period: 15 days. Recruiter response rate: 61.0%.
+CAND_0046132,13,0.6921,Ranked #13 with JD embedding similarity 0.53. Has 4.3 YOE as AI Research Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 94.0%.
+CAND_0007620,14,0.6911,Ranked #14 with JD embedding similarity 0.55. Has 7.0 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 74.0%.
+CAND_0091691,15,0.6883,Ranked #15 with JD embedding similarity 0.53. Has 5.6 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 76.0%.
+CAND_0073915,16,0.6877,Ranked #16 with JD embedding similarity 0.52. Has 9.0 YOE as Business Analyst. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 76.0%.
+CAND_0062784,17,0.6856,Ranked #17 with JD embedding similarity 0.53. Has 8.0 YOE as Customer Support. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 75.0%.
+CAND_0045250,18,0.6832,Ranked #18 with JD embedding similarity 0.53. Has 6.6 YOE as Applied ML Engineer. Location is outside preferred zones. Notice period: 15 days. Recruiter response rate: 74.0%.
+CAND_0081846,19,0.6825,Ranked #19 with JD embedding similarity 0.53. Has 6.7 YOE as Lead AI Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 73.0%.
+CAND_0049538,20,0.6806,Ranked #20 with JD embedding similarity 0.54. Has 5.8 YOE as Applied ML Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 72.0%.
+CAND_0018888,21,0.6784,Ranked #21 with JD embedding similarity 0.53. Has 6.5 YOE as AI Research Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 55.0%.
+CAND_0012256,22,0.6778,Ranked #22 with JD embedding similarity 0.53. Has 6.4 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 72.0%.
+CAND_0007955,23,0.6745,Ranked #23 with JD embedding similarity 0.53. Has 8.7 YOE as Civil Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 54.0%.
+CAND_0010080,24,0.6689,Ranked #24 with JD embedding similarity 0.54. Has 7.1 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 68.0%.
+CAND_0019427,25,0.6628,Ranked #25 with JD embedding similarity 0.54. Has 5.3 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 65.0%.
+CAND_0007978,26,0.6608,Ranked #26 with JD embedding similarity 0.52. Has 7.6 YOE as Business Analyst. Location is in welcome zones. Notice period: 30 days. Recruiter response rate: 57.0%.
+CAND_0069638,27,0.6578,Ranked #27 with JD embedding similarity 0.54. Has 6.2 YOE as Computer Vision Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 64.0%.
+CAND_0092767,28,0.6476,Ranked #28 with JD embedding similarity 0.54. Has 9.0 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 61.0%.
+CAND_0095048,29,0.6409,Ranked #29 with JD embedding similarity 0.55. Has 7.8 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 57.0%.
+CAND_0046525,30,0.6262,Ranked #30 with JD embedding similarity 0.55. Has 6.1 YOE as Senior Machine Learning Engineer. Location is a primary preference. Notice period: 60 days. Recruiter response rate: 88.0%.
+CAND_0008295,31,0.6218,Ranked #31 with JD embedding similarity 0.53. Has 6.5 YOE as AI Research Engineer. Location is a primary preference. Notice period: 45 days. Recruiter response rate: 89.0%.
+CAND_0050324,32,0.6111,Ranked #32 with JD embedding similarity 0.53. Has 7.8 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 50.0%.
+CAND_0048166,33,0.6042,Ranked #33 with JD embedding similarity 0.53. Has 5.2 YOE as ML Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 48.0%.
+CAND_0065878,34,0.6037,Ranked #34 with JD embedding similarity 0.52. Has 7.8 YOE as Senior Data Scientist. Location is outside preferred zones. Notice period: 15 days. Recruiter response rate: 48.0%.
+CAND_0077337,35,0.6007,Ranked #35 with JD embedding similarity 0.54. Has 7.0 YOE as Staff Machine Learning Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 95.0%.
+CAND_0034871,36,0.5993,Ranked #36 with JD embedding similarity 0.54. Has 8.4 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 45.0%.
+CAND_0045377,37,0.598,Ranked #37 with JD embedding similarity 0.53. Has 7.9 YOE as Content Writer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 45.0%.
+CAND_0010901,38,0.5934,Ranked #38 with JD embedding similarity 0.55. Has 6.5 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 41.0%.
+CAND_0079447,39,0.5933,Ranked #39 with JD embedding similarity 0.53. Has 7.1 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 44.0%.
+CAND_0064326,40,0.5931,Ranked #40 with JD embedding similarity 0.52. Has 7.6 YOE as Search Engineer. Location is outside preferred zones. Notice period: 45 days. Recruiter response rate: 94.0%.
+CAND_0059839,41,0.5903,Ranked #41 with JD embedding similarity 0.54. Has 9.5 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 75.0%.
+CAND_0064331,42,0.5871,Ranked #42 with JD embedding similarity 0.54. Has 4.2 YOE as Senior Software Engineer (ML). Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 74.0%.
+CAND_0030364,43,0.581,Ranked #43 with JD embedding similarity 0.56. Has 6.3 YOE as Civil Engineer. Location is a primary preference. Notice period: 60 days. Recruiter response rate: 68.0%.
+CAND_0028399,44,0.5808,Ranked #44 with JD embedding similarity 0.54. Has 9.6 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 71.0%.
+CAND_0031862,45,0.5769,Ranked #45 with JD embedding similarity 0.54. Has 5.2 YOE as Civil Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 20.0%.
+CAND_0005405,46,0.5754,Ranked #46 with JD embedding similarity 0.54. Has 5.7 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 37.0%.
+CAND_0073007,47,0.5737,Ranked #47 with JD embedding similarity 0.55. Has 5.8 YOE as AI Specialist. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 83.0%.
+CAND_0004402,48,0.5736,Ranked #48 with JD embedding similarity 0.54. Has 6.0 YOE as AI Research Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 83.0%.
+CAND_0097936,49,0.57,Ranked #49 with JD embedding similarity 0.54. Has 4.3 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 68.0%.
+CAND_0024147,50,0.5688,Ranked #50 with JD embedding similarity 0.52. Has 5.9 YOE as ML Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 84.0%.
+CAND_0070653,51,0.567,Ranked #51 with JD embedding similarity 0.52. Has 5.0 YOE as AI Specialist. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 36.0%.
+CAND_0065139,52,0.5663,Ranked #52 with JD embedding similarity 0.53. Has 5.2 YOE as AI Research Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 82.0%.
+CAND_0085263,53,0.566,Ranked #53 with JD embedding similarity 0.54. Has 6.0 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 33.0%.
+CAND_0062533,54,0.566,Ranked #54 with JD embedding similarity 0.54. Has 4.9 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 66.0%.
+CAND_0080549,55,0.5659,Ranked #55 with JD embedding similarity 0.53. Has 8.9 YOE as Sales Executive. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 34.0%.
+CAND_0053591,56,0.5647,Ranked #56 with JD embedding similarity 0.53. Has 5.3 YOE as AI Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 81.0%.
+CAND_0096104,57,0.5642,Ranked #57 with JD embedding similarity 0.54. Has 7.0 YOE as AI Specialist. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 33.0%.
+CAND_0009516,58,0.5616,Ranked #58 with JD embedding similarity 0.52. Has 6.9 YOE as AI Specialist. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 34.0%.
+CAND_0058019,59,0.5572,Ranked #59 with JD embedding similarity 0.53. Has 9.6 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 65.0%.
+CAND_0042024,60,0.5571,Ranked #60 with JD embedding similarity 0.54. Has 6.2 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 31.0%.
+CAND_0052335,61,0.5571,Ranked #61 with JD embedding similarity 0.52. Has 6.4 YOE as Applied ML Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 79.0%.
+CAND_0090668,62,0.5542,Ranked #62 with JD embedding similarity 0.54. Has 7.8 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 76.0%.
+CAND_0048089,63,0.5528,Ranked #63 with JD embedding similarity 0.52. Has 6.0 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 31.0%.
+CAND_0071974,64,0.5525,Ranked #64 with JD embedding similarity 0.53. Has 7.8 YOE as Senior AI Engineer. Location is outside preferred zones. Notice period: 45 days. Recruiter response rate: 76.0%.
+CAND_0019845,65,0.551,Ranked #65 with JD embedding similarity 0.54. Has 3.4 YOE as AI Specialist. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 78.0%.
+CAND_0048497,66,0.5504,Ranked #66 with JD embedding similarity 0.54. Has 7.0 YOE as Civil Engineer. Location is in welcome zones. Notice period: 60 days. Recruiter response rate: 64.0%.
+CAND_0082913,67,0.5495,Ranked #67 with JD embedding similarity 0.54. Has 5.5 YOE as Senior Software Engineer (ML). Location is outside preferred zones. Notice period: 45 days. Recruiter response rate: 73.0%.
+CAND_0089405,68,0.5477,Ranked #68 with JD embedding similarity 0.53. Has 9.9 YOE as Civil Engineer. Location is in welcome zones. Notice period: 30 days. Recruiter response rate: 52.0%.
+CAND_0083957,69,0.5466,Ranked #69 with JD embedding similarity 0.53. Has 7.9 YOE as Civil Engineer. Location is a primary preference. Notice period: 30 days. Recruiter response rate: 12.0%.
+CAND_0018421,70,0.5458,Ranked #70 with JD embedding similarity 0.53. Has 5.4 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 74.0%.
+CAND_0056302,71,0.5433,Ranked #71 with JD embedding similarity 0.53. Has 7.8 YOE as Mechanical Engineer. Location is in welcome zones. Notice period: 60 days. Recruiter response rate: 63.0%.
+CAND_0049978,72,0.5426,Ranked #72 with JD embedding similarity 0.54. Has 6.6 YOE as Senior Software Engineer (ML). Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 71.0%.
+CAND_0015823,73,0.5407,Ranked #73 with JD embedding similarity 0.54. Has 6.6 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 70.0%.
+CAND_0014461,74,0.5397,Ranked #74 with JD embedding similarity 0.54. Has 6.0 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 70.0%.
+CAND_0038933,75,0.5359,Ranked #75 with JD embedding similarity 0.53. Has 6.3 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 69.0%.
+CAND_0036394,76,0.5357,Ranked #76 with JD embedding similarity 0.53. Has 5.5 YOE as Sales Executive. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 69.0%.
+CAND_0055548,77,0.5343,Ranked #77 with JD embedding similarity 0.53. Has 8.4 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 69.0%.
+CAND_0013122,78,0.534,Ranked #78 with JD embedding similarity 0.54. Has 4.3 YOE as AI Specialist. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 56.0%.
+CAND_0095579,79,0.5339,Ranked #79 with JD embedding similarity 0.53. Has 6.4 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 69.0%.
+CAND_0098235,80,0.5339,Ranked #80 with JD embedding similarity 0.54. Has 8.7 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 67.0%.
+CAND_0098621,81,0.5322,Ranked #81 with JD embedding similarity 0.54. Has 5.7 YOE as HR Manager. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 67.0%.
+CAND_0091836,82,0.5309,Ranked #82 with JD embedding similarity 0.52. Has 6.1 YOE as HR Manager. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 68.0%.
+CAND_0005155,83,0.53,Ranked #83 with JD embedding similarity 0.54. Has 5.7 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 65.0%.
+CAND_0063025,84,0.5292,Ranked #84 with JD embedding similarity 0.53. Has 7.1 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 23.0%.
+CAND_0076590,85,0.5289,Ranked #85 with JD embedding similarity 0.53. Has 9.0 YOE as Mechanical Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 67.0%.
+CAND_0001537,86,0.5281,Ranked #86 with JD embedding similarity 0.52. Has 6.3 YOE as Project Manager. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 67.0%.
+CAND_0094759,87,0.5278,Ranked #87 with JD embedding similarity 0.54. Has 8.6 YOE as Lead AI Engineer. Location is in welcome zones. Notice period: 30 days. Recruiter response rate: 11.0%.
+CAND_0065016,88,0.526,Ranked #88 with JD embedding similarity 0.53. Has 8.2 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 65.0%.
+CAND_0019783,89,0.5248,Ranked #89 with JD embedding similarity 0.53. Has 13.2 YOE as Civil Engineer. Location is in welcome zones. Notice period: 30 days. Recruiter response rate: 78.0%.
+CAND_0077776,90,0.5233,Ranked #90 with JD embedding similarity 0.54. Has 5.3 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 63.0%.
+CAND_0040259,91,0.5218,Ranked #91 with JD embedding similarity 0.53. Has 8.8 YOE as HR Manager. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 64.0%.
+CAND_0097381,92,0.5215,Ranked #92 with JD embedding similarity 0.52. Has 6.4 YOE as Content Writer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 64.0%.
+CAND_0038463,93,0.52,Ranked #93 with JD embedding similarity 0.54. Has 6.6 YOE as Civil Engineer. Location is a primary preference. Notice period: 60 days. Recruiter response rate: 45.0%.
+CAND_0091534,94,0.5177,Ranked #94 with JD embedding similarity 0.54. Has 16.6 YOE as AI Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 84.0%.
+CAND_0042258,95,0.5172,Ranked #95 with JD embedding similarity 0.54. Has 5.6 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 17.0%.
+CAND_0098846,96,0.5167,Ranked #96 with JD embedding similarity 0.52. Has 7.6 YOE as AI Engineer. Location is outside preferred zones. Notice period: 45 days. Recruiter response rate: 62.0%.
+CAND_0002623,97,0.5164,Ranked #97 with JD embedding similarity 0.53. Has 7.9 YOE as HR Manager. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 18.0%.
+CAND_0044222,98,0.5153,Ranked #98 with JD embedding similarity 0.54. Has 7.7 YOE as AI Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 60.0%.
+CAND_0088020,99,0.5143,Ranked #99 with JD embedding similarity 0.53. Has 5.1 YOE as Civil Engineer. Location is outside preferred zones. Notice period: 60 days. Recruiter response rate: 60.0%.
+CAND_0033861,100,0.5132,Ranked #100 with JD embedding similarity 0.54. Has 8.0 YOE as Senior NLP Engineer. Location is outside preferred zones. Notice period: 30 days. Recruiter response rate: 16.0%.

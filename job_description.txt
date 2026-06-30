@@ -1,0 +1,1 @@
+Senior AI Engineer, Founding Team, 5-9 years. Must have production experience deploying embeddings-based retrieval and vector DBs. Strong Python, hands-on ranking-evaluation (NDCG, A-B testing). No pure-research backgrounds. Preferred locations: Pune/Noida, but Hyderabad/Mumbai/Delhi-NCR welcome. Notice period <30 days preferred.
